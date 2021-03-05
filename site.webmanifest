@@ -1,6 +1,6 @@
 {
-    "name": "Volt React Dashboard",
-    "short_name": "Volt React Dashboard",
+    "name": "Cardano Dashboard",
+    "short_name": "Cardano Dashboard",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
@@ -15,5 +15,6 @@
     ],
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
+    "start_url": "https://jeferson0993.github.io/cardano-dashboard-app/",
     "display": "standalone"
 }
