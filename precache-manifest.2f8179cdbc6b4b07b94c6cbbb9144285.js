@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3089f31f3e34c113c9950bdc327fae37",
+    "revision": "7cb9d915dff6588a4b87d14d928244f4",
     "url": "/cardano-dashboard-app/index.html"
   },
   {
-    "revision": "d951f4e6f88af88fe568",
+    "revision": "0c1d89b3a56209c88c9e",
     "url": "/cardano-dashboard-app/static/css/2.1a83ba20.chunk.css"
   },
   {
-    "revision": "4fa8d154265b6d56e4ea",
+    "revision": "36471860239110854ded",
     "url": "/cardano-dashboard-app/static/css/main.03406104.chunk.css"
   },
   {
-    "revision": "d951f4e6f88af88fe568",
-    "url": "/cardano-dashboard-app/static/js/2.16c459ea.chunk.js"
+    "revision": "0c1d89b3a56209c88c9e",
+    "url": "/cardano-dashboard-app/static/js/2.0f8207a8.chunk.js"
   },
   {
     "revision": "8dd5b03c6dd7eae3d56643bf3e9babbb",
-    "url": "/cardano-dashboard-app/static/js/2.16c459ea.chunk.js.LICENSE.txt"
+    "url": "/cardano-dashboard-app/static/js/2.0f8207a8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4fa8d154265b6d56e4ea",
-    "url": "/cardano-dashboard-app/static/js/main.7c7cb1fb.chunk.js"
+    "revision": "36471860239110854ded",
+    "url": "/cardano-dashboard-app/static/js/main.58ecbcfd.chunk.js"
   },
   {
     "revision": "2d55a73e08f5af33d121",
@@ -32,12 +32,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cardano-dashboard-app/static/media/404.85064a97.svg"
   },
   {
-    "revision": "6aae84abf0090324eb1daa7eef6bfdd8",
-    "url": "/cardano-dashboard-app/static/media/bootstrap-5-logo.6aae84ab.svg"
+    "revision": "a0320da1a9ae65d73f6af7780883975c",
+    "url": "/cardano-dashboard-app/static/media/500.a0320da1.svg"
   },
   {
-    "revision": "ed3cd4b507f8209412bc426332f23589",
-    "url": "/cardano-dashboard-app/static/media/canada.ed3cd4b5.svg"
+    "revision": "6aae84abf0090324eb1daa7eef6bfdd8",
+    "url": "/cardano-dashboard-app/static/media/bootstrap-5-logo.6aae84ab.svg"
   },
   {
     "revision": "9e2f0e51df04428ad671550a9a54861d",
@@ -104,22 +104,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cardano-dashboard-app/static/media/fa-solid-900.9ae050d1.woff2"
   },
   {
-    "revision": "968aaa24eeffdd779e4fc9c27c5cb730",
-    "url": "/cardano-dashboard-app/static/media/france.968aaa24.svg"
-  },
-  {
-    "revision": "d810f62137d64a0a58035c80489b7d54",
-    "url": "/cardano-dashboard-app/static/media/germany.d810f621.svg"
-  },
-  {
-    "revision": "612e617f5d72975e63e53d793d757785",
-    "url": "/cardano-dashboard-app/static/media/italy.612e617f.svg"
-  },
-  {
-    "revision": "1f905d23af144bc76e488f00d516de2e",
-    "url": "/cardano-dashboard-app/static/media/japan.1f905d23.svg"
-  },
-  {
     "revision": "4d26e151b224eaa88df2742351073c56",
     "url": "/cardano-dashboard-app/static/media/profile-picture-1.4d26e151.jpg"
   },
@@ -136,15 +120,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cardano-dashboard-app/static/media/profile-picture-4.ccd796b3.jpg"
   },
   {
-    "revision": "f7d45c01a0efd126cc1030d5cf78fd84",
-    "url": "/cardano-dashboard-app/static/media/react-logo-transparent.f7d45c01.svg"
-  },
-  {
     "revision": "b779e4fd2515e28f0233a071f3d46104",
     "url": "/cardano-dashboard-app/static/media/react-logo.b779e4fd.svg"
-  },
-  {
-    "revision": "36ab476e5e55f496749ee61897a9cfb5",
-    "url": "/cardano-dashboard-app/static/media/united-states-of-america.36ab476e.svg"
   }
 ]);
