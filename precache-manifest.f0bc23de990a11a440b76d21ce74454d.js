@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fde688f6a790e11696f2f35206a0f39",
+    "revision": "cf8d6cde7b8a9635d99000afae266a77",
     "url": "/cardano-dashboard-app/index.html"
   },
   {
-    "revision": "785595a7416f9a59aee7",
+    "revision": "a0a4ac0efe30a1d7fd25",
     "url": "/cardano-dashboard-app/static/css/2.1a83ba20.chunk.css"
   },
   {
-    "revision": "8b4e76481066aca7b3d1",
+    "revision": "803feaceeae058c7ce4e",
     "url": "/cardano-dashboard-app/static/css/main.03406104.chunk.css"
   },
   {
-    "revision": "785595a7416f9a59aee7",
-    "url": "/cardano-dashboard-app/static/js/2.e7cc1aa1.chunk.js"
+    "revision": "a0a4ac0efe30a1d7fd25",
+    "url": "/cardano-dashboard-app/static/js/2.61b2c2ec.chunk.js"
   },
   {
     "revision": "8dd5b03c6dd7eae3d56643bf3e9babbb",
-    "url": "/cardano-dashboard-app/static/js/2.e7cc1aa1.chunk.js.LICENSE.txt"
+    "url": "/cardano-dashboard-app/static/js/2.61b2c2ec.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8b4e76481066aca7b3d1",
-    "url": "/cardano-dashboard-app/static/js/main.03a35f18.chunk.js"
+    "revision": "803feaceeae058c7ce4e",
+    "url": "/cardano-dashboard-app/static/js/main.d5271e48.chunk.js"
   },
   {
     "revision": "2d55a73e08f5af33d121",
