@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/cardano-dashboard-app/static/css/main.03406104.chunk.css",
-    "main.js": "/cardano-dashboard-app/static/js/main.d5271e48.chunk.js",
-    "main.js.map": "/cardano-dashboard-app/static/js/main.d5271e48.chunk.js.map",
+    "main.js": "/cardano-dashboard-app/static/js/main.fd23b02e.chunk.js",
+    "main.js.map": "/cardano-dashboard-app/static/js/main.fd23b02e.chunk.js.map",
     "runtime-main.js": "/cardano-dashboard-app/static/js/runtime-main.042549bc.js",
     "runtime-main.js.map": "/cardano-dashboard-app/static/js/runtime-main.042549bc.js.map",
     "static/css/2.1a83ba20.chunk.css": "/cardano-dashboard-app/static/css/2.1a83ba20.chunk.css",
-    "static/js/2.61b2c2ec.chunk.js": "/cardano-dashboard-app/static/js/2.61b2c2ec.chunk.js",
-    "static/js/2.61b2c2ec.chunk.js.map": "/cardano-dashboard-app/static/js/2.61b2c2ec.chunk.js.map",
+    "static/js/2.d4ffb8ba.chunk.js": "/cardano-dashboard-app/static/js/2.d4ffb8ba.chunk.js",
+    "static/js/2.d4ffb8ba.chunk.js.map": "/cardano-dashboard-app/static/js/2.d4ffb8ba.chunk.js.map",
     "index.html": "/cardano-dashboard-app/index.html",
-    "precache-manifest.f0bc23de990a11a440b76d21ce74454d.js": "/cardano-dashboard-app/precache-manifest.f0bc23de990a11a440b76d21ce74454d.js",
+    "precache-manifest.d9969b338bf20419b43f393f14b225fe.js": "/cardano-dashboard-app/precache-manifest.d9969b338bf20419b43f393f14b225fe.js",
     "service-worker.js": "/cardano-dashboard-app/service-worker.js",
     "static/css/2.1a83ba20.chunk.css.map": "/cardano-dashboard-app/static/css/2.1a83ba20.chunk.css.map",
     "static/css/main.03406104.chunk.css.map": "/cardano-dashboard-app/static/css/main.03406104.chunk.css.map",
-    "static/js/2.61b2c2ec.chunk.js.LICENSE.txt": "/cardano-dashboard-app/static/js/2.61b2c2ec.chunk.js.LICENSE.txt",
+    "static/js/2.d4ffb8ba.chunk.js.LICENSE.txt": "/cardano-dashboard-app/static/js/2.d4ffb8ba.chunk.js.LICENSE.txt",
     "static/media/404.svg": "/cardano-dashboard-app/static/media/404.85064a97.svg",
     "static/media/500.svg": "/cardano-dashboard-app/static/media/500.a0320da1.svg",
     "static/media/bootstrap-5-logo.svg": "/cardano-dashboard-app/static/media/bootstrap-5-logo.6aae84ab.svg",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.042549bc.js",
     "static/css/2.1a83ba20.chunk.css",
-    "static/js/2.61b2c2ec.chunk.js",
+    "static/js/2.d4ffb8ba.chunk.js",
     "static/css/main.03406104.chunk.css",
-    "static/js/main.d5271e48.chunk.js"
+    "static/js/main.fd23b02e.chunk.js"
   ]
 }
